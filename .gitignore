@@ -1,0 +1,6 @@
+Data/
+env/
+nltk_data/
+src/__pycache__/
+results/
+src/utils/__pycache__/
