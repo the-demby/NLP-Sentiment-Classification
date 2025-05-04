@@ -1,6 +1,10 @@
 Data/
 env/
 nltk_data/
-src/__pycache__/
 results/
-src/utils/__pycache__/
+results_with_er/
+src/__pycache__/
+*.pyc
+*.ipynb_checkpoints
+__pycache__/
+.ipynb_checkpoints/

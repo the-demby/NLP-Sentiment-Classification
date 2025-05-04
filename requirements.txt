@@ -1,36 +1,12 @@
-# Core
-numpy
-pandas
-scikit-learn
-matplotlib
-seaborn
-
-# NLP
-nltk
-wordcloud
-
-# Deep Learning / Transformers
-torch>=1.12
-transformers>=4.35
-datasets>=2.15
-evaluate
-
-# Tokenizers pour Transformers
-tokenizers>=0.13.3
-
-# Optionnel pour acceleration GPU
-accelerate
-
-# Pour trainer HuggingFace
-huggingface_hub
-sentencepiece
-
-# Pour logs
-tqdm
-
-# Compatibilité TensorFlow (si besoin)
-tensorflow==2.15
-
-# Jupyter
-ipykernel
-jupyterlab
+scikit-learn==1.3.2
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.8.4
+seaborn==0.13.2
+nltk==3.8.1
+tqdm==4.66.2
+transformers==4.40.1
+torch==2.2.2
+datasets==2.19.1
+sentencepiece==0.2.0
+evaluate==0.4.1
